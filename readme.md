@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="assets\images\datasightlogo.png" alt="Project logo" width=250px></a>
+ <img src="datasight_logo" alt="Project logo" width=250px></a>
 </p>
 
 <div align="center">
@@ -16,12 +16,13 @@
 ## ⛏️ Tecnologias utilizadas
 * HTML
 * CSS
-* JS
+* Bootstrap
 * glitch
 
 ## 🧐 Sobre
-Get.ALL é uma Plataforma Mobile de Agregação Financeira alinhada ao Open Banking que de forma segmentada faz o controle e oferece insights para redução de gastos, promovendo economia e educação financeira, além de contar com o “CashInvest" direcionado para investimento em planos e metas futuras.
-Tudo isso em um só lugar!
+Plataforma de INSIGHTS baseada nas pesquisas de palavras-chaves dos consumidores, tendências de consumo, produtos e serviços, com a opção de comparação de cenários operacionais para pequenas e medias empresas tomarem decisões mais assertivas.
+
+
 
 ## ✍️ Time
 * Gabriel Ribeiro - Backend
